@@ -1,1 +1,2 @@
-# javascript-30-day-challenge
+# JavaScript-30-Day-Challenge
+Day 01: JavaScript Drum Kit.
